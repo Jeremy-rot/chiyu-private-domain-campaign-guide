@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 构建产物
+dist/
+build/
+*.zip
+
+# 编辑器
+.vscode/
+.idea/
